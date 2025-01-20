@@ -53,7 +53,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             SizedBox(height: 20), // Space between the lines
             Text(
-              'Believe in yourself!Okay okkkkkkkkkkkkk',
+              'Token Added',
               style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.normal,
